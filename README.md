@@ -35,6 +35,8 @@
 - **[FlixFinder](https://github.com/Balakundhi/FlixFinder)** - Discover and explore movies and TV shows with detailed info and trending titles. This repository is private.
 - **[Rambl](https://github.com/Balakundhi/Rambl)** - Explore the world with ease and spontaneity. This repository is private.
 - **[EnduranceRush](https://github.com/Balakundhi/EnduranceRush)** - Track runs with GPS, monitor activities, and manage plans, inspired by Strava. This repository is private.
+- **[GlobeMediWatch](https://github.com/info-6150-spring-2024/final-project-globemediwatch)** - Join health camps, donate blood, and access vital health checks for community wellness.
+- **[Husky Payroll Management System](https://github.com/Balakundhi/Husky_Payroll_Management_System_DAMG_6210)** - Manage payroll operations efficiently with a tailored solution for academic institutions.
 
 ### 🤝🏻 &nbsp;Connect with Me
 
