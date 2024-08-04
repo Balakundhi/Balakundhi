@@ -32,6 +32,18 @@
 
 ### 💻 &nbsp;Projects
 
+#### FlixFinder
+
+Discover and explore movies and TV shows with detailed info and trending titles.
+
+#### Rambl
+
+Explore the world with ease and spontaneity.
+
+#### EnduranceRush
+
+Track runs with GPS, monitor activities, and manage plans, inspired by Strava.
+
 <br><br>
 
 ### 🤝🏻 &nbsp;Connect with Me
