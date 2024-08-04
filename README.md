@@ -32,19 +32,17 @@
 
 ### 💻 &nbsp;Projects
 
-#### FlixFinder
+#### [FlixFinder](https://github.com/Balakundhi/FlixFinder)
 
 Discover and explore movies and TV shows with detailed info and trending titles.
 
-#### Rambl
+#### [Rambl](https://github.com/Balakundhi/Rambl)
 
 Explore the world with ease and spontaneity.
 
-#### EnduranceRush
+#### [EnduranceRush](https://github.com/Balakundhi/EnduranceRush)
 
 Track runs with GPS, monitor activities, and manage plans, inspired by Strava.
-
-<br><br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
