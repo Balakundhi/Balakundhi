@@ -30,8 +30,6 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)&nbsp;
 
-<br><br>
-
 ### 💻 &nbsp;Projects
 
 <br><br>
