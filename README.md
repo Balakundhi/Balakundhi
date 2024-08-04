@@ -32,17 +32,9 @@
 
 ### 💻 &nbsp;Projects
 
-#### [FlixFinder](https://github.com/Balakundhi/FlixFinder)
-
-Discover and explore movies and TV shows with detailed info and trending titles.
-
-#### [Rambl](https://github.com/Balakundhi/Rambl)
-
-Explore the world with ease and spontaneity.
-
-#### [EnduranceRush](https://github.com/Balakundhi/EnduranceRush)
-
-Track runs with GPS, monitor activities, and manage plans, inspired by Strava.
+- **[FlixFinder](https://github.com/Balakundhi/FlixFinder)** - Discover and explore movies and TV shows with detailed info and trending titles. This repository is private.
+- **[Rambl](https://github.com/Balakundhi/Rambl)** - Explore the world with ease and spontaneity. This repository is private.
+- **[EnduranceRush](https://github.com/Balakundhi/EnduranceRush)** - Track runs with GPS, monitor activities, and manage plans, inspired by Strava. This repository is private.
 
 ### 🤝🏻 &nbsp;Connect with Me
 
