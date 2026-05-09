@@ -42,7 +42,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sbalakundhi/"><img src="https://img.shields.io/badge/-Sri%20Charan%20Balakundhi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<!-- <a href="https://www.linkedin.com/in/sbalakundhi/"><img src="https://img.shields.io/badge/-Sri%20Charan%20Balakundhi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> -->
 <a href="mailto:balakundhi.s@northeastern.edu"><img src="https://img.shields.io/badge/-Sri%20Charan%20Balakundhi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
